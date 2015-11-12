@@ -1,0 +1,23 @@
+name: MarBle Musings
+favicon: null
+layout_spectrum: 0.5380151476711035
+typography_spectrum: 0.8710004198364913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9684887623880059
+  lightness: 0.606302822008729
+  saturation: 0.20850457926280797
+  rhythmicContrast: 0.04232475161552429
+purpose: []
